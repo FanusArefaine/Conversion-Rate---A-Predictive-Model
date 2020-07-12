@@ -7,7 +7,7 @@ outliers = list()
 
 
 
-def minoutlier(self, data):
+def minoutlier(data):
 
 
     """ data_mean : calculate the mean of the data
